@@ -12,11 +12,11 @@ def reflectingLat(lat):
     
     return result
 
+#
+#test1 = np.arange(6)
+#test1 = np.reshape(test1, (2,3))
 
-test1 = np.arange(6)
-test1 = np.reshape(test1, (2,3))
+#print(test1)
 
-print(test1)
-
-test2 = reflectingLat(test1)
-print(test2)
+#test2 = reflectingLat(test1)
+#print(test2)
